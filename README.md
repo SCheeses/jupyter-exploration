@@ -6,7 +6,6 @@ This repository contains materials for an introductory lab on GitHub and Jupyter
 
 - README.md
 - My_First_Notebook.ipynb
-- Journal/Summary document
 
 ## Lab Session Goals
 
